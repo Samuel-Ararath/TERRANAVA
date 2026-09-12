@@ -198,30 +198,6 @@ Vercel| Deployment
 
 The repository currently uses Next.js 16, React 19, TypeScript 5.7, and Tailwind CSS 4.
 
----
-
-📁 Project Structure
-
-Terranava/
-├── app/
-│   ├── ...
-│   └── ...
-├── components/
-│   └── ...
-├── lib/
-│   └── ...
-├── public/
-│   └── ...
-├── next.config.mjs
-├── package.json
-├── postcss.config.mjs
-├── tailwind.config.*
-├── tsconfig.json
-└── README.md
-
-The repository is organized around the Next.js application structure, reusable components, supporting libraries, and public assets.
-
----
 
 🚀 Getting Started
 
@@ -327,7 +303,7 @@ This project is developed collaboratively as part of the Terranava initiative.
 
 Core Contributors
 
-- Samuel-Ararath — Development & Project Contribution
+- tester-1102 & Samuel-Ararath — Development & Project Contribution
 
 Additional contributors can be added as the project evolves.
 
