@@ -3,15 +3,15 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'siklus. — Organic Exchange',
-  description: 'Platform pertukaran limbah organik untuk industri HORECA dan peternak maggot.',
+  title: 'TERRANAVA INDONESIA — Rooted in Earth, Reaching for the Ninth',
+  description: 'TERRANAVA membangun rantai nilai ekonomi sirkular untuk limbah organik komersial Indonesia.',
   generator: 'v0.app',
   icons: { icon: '/icon.svg', apple: '/apple-icon.png' },
 }
 
 export const viewport: Viewport = {
   colorScheme: 'light',
-  themeColor: '#f6f8f3',
+  themeColor: '#f5f1e8',
 }
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
@@ -21,4 +21,3 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     </html>
   )
 }
-
